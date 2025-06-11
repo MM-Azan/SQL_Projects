@@ -21,8 +21,6 @@ This SQL project focuses on cleaning the **Netflix Movies and TV Shows Dataset**
 ## 🛠️ Tools Used
 
 - **SQL (MySQL)**
-- DBMS of your choice (e.g., MySQL Workbench, DBeaver, or phpMyAdmin)
-
 ---
 
 ## 🔍 Data Cleaning Steps
